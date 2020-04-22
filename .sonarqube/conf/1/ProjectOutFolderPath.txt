@@ -1,0 +1,1 @@
+C:\Users\Win10\source\repos\DevOps\mslearn-tailspin-spacegame-web\.sonarqube\out\1
